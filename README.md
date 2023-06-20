@@ -1,6 +1,6 @@
 # Personal-Portfolio
 
-> This is personal portfolio website.
+> This is my personal portfolio website.
 
 ## Built With
 
@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-- [Live Demo]()
+- [Live Demo](https://my-portfolio-hritik-kumar.vercel.app/)
 
 # Getting Started
 
