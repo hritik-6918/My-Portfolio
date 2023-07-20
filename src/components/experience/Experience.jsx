@@ -29,14 +29,6 @@ const Experience = () => {
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Redux</h4>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>SCSS</h4>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Tailwind</h4>
             </article>
           </div>
@@ -50,19 +42,7 @@ const Experience = () => {
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>MongoDB</h4>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Expressjs</h4>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Swagger</h4>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>RSpec</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
