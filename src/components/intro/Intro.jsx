@@ -28,7 +28,13 @@ const Intro = () => {
               <small>10+ Completed Projects</small>
             </article>
           </div>
-          <p>Hi connections👋, I'm Hritik Kumar, Aspiring & Passionate MERN Stack Developer💖🚀. A Tech Enthusiast & Problem Solver looking to explore and enhance my skills.📝Being an information technology(IT) student of B.tech degree at Techno Main, Salt Lake, Kolkata, West Bengal, India.</p>
+          <p>
+🚀I'm Hritik Kumar, Aspiring & Passionate Software & Web developer👨‍💻 .
+🚀A Tech Enthusiast & Problem solver looking to explore and enhance my skills.
+🚀A developer who is passionate about understanding the business requirements and turn those requirements into reusable, maintainable and scalable code.
+🚀Currently building & learning a tech product from scratch.
+🚀Being an information technology (IT) student of B.tech degree at Techno Main, salt lake, Kolkata, west Bengal, India.
+          </p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
