@@ -25,11 +25,19 @@ const Experience = () => {
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>React</h4>
+              <h4>ReactJS</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Tailwind</h4>
+              <h4>Tailwind CSS</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Bootstrap</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Material UI</h4>
             </article>
           </div>
         </div>
@@ -38,15 +46,35 @@ const Experience = () => {
           <div className="experience__content">
           <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Nodejs</h4>
+              <h4>NodeJS</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Expressjs</h4>
+              <h4>ExpressJS</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Git/GitHub</h4>
+              <h4>MongoDB</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>SQL/MySQL</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Git</h4>
+                </article>
+              <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Github</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Vercel</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Netlify</h4>
             </article>
           </div>
         </div>
