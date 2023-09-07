@@ -31,8 +31,7 @@ const Contact = () => {
     <section id="contact">
       <h5>Get In Touch</h5>
       <h5>
-        I will respond asap if the valid email is
-        provided :)
+        Feel free to reach out me :)
       </h5>
       <h2>Contact Me</h2>
       <div className="container contact__container">
